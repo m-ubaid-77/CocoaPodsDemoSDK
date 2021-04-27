@@ -98,7 +98,7 @@ Pod::Spec.new do |spec|
 
   # spec.public_header_files = "Classes/**/*.h"
 
-  spec.vendored_frameworks = "CoherentSDK.xcframework"
+  spec.vendored_frameworks = "CoherentSDK.framework"
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
