@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SPMDemoSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "SPMDemoSDK is just for testing purpose."
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
   
-    SPMDemoSDK is just for testing purpose, testing for creating a Pod with xcframwork binary
+    SPMDemoSDK is just for testing purpose, testing for creating a Pod with universal framework binary
   
                    DESC
 
